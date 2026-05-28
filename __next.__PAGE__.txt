@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[41442,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js","/moniko/_next/static/chunks/0zlrlgh~b~mxa.js"],"HeroSection"]
+3:I[39179,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js","/moniko/_next/static/chunks/0zlrlgh~b~mxa.js"],"CategoriesSection"]
+4:I[34839,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js","/moniko/_next/static/chunks/0zlrlgh~b~mxa.js"],"BestSellersSection"]
+5:I[70183,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js","/moniko/_next/static/chunks/0zlrlgh~b~mxa.js"],"PromoSection"]
+6:I[60319,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js","/moniko/_next/static/chunks/0zlrlgh~b~mxa.js"],"TestimonialsSection"]
+7:I[62622,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js","/moniko/_next/static/chunks/0zlrlgh~b~mxa.js"],"InstagramSection"]
+8:I[97367,["/moniko/_next/static/chunks/006y1x3gj6y2a.js","/moniko/_next/static/chunks/0c6fmm8i4cjv9.js","/moniko/_next/static/chunks/0d3shmwh5_nmn.js","/moniko/_next/static/chunks/0getnx--xxdy9.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]],[["$","script","script-0",{"src":"/moniko/_next/static/chunks/0zlrlgh~b~mxa.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"u7LRqTSGhnDLfQxj0YqTf"}
+a:null
